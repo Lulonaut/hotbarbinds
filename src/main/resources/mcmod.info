@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "hotbarbinds",
+    "name": "HotbarBinds",
+    "description": "Adds a second keybind for the hotbar slots",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "Lulonaut"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
